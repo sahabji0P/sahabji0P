@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at **[https://github.com/sahabji0P](https://github.com/sahabji0P?tab=repositories)**
 
-- 📫 How to reach me **est.query@gmail.com**
+- 📫 How to reach me **shashwatj.job@gmail.com**
 
 - ⚡ Fun fact **I think I have Curious Mind**
 

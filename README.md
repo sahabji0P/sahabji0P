@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **shashwatj.job@gmail.com**
 
-- ⚡ Fun fact **I think I have Curious Mind**
+- ⚡ Fun fact **I thought Wearing Spex makes you smart!**
 
 
 <h3 align="left">Connect with me:</h3>

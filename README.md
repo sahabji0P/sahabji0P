@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shashwat Jain</h1>
-<h3 align="center">A passionate Computer Science Engineer from India</h3><br>
+<h3 align="center">A passionate **Computer Science Engineer and a Full Stack Web Developer** from India</h3><br>
 <!-- <img width="300" alt="coding" align="right" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"> -->
 
 <img width="550" alt="coding" align="right" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
 - 🔭 I’m currently studying in **Bennett University**
 
-- 🌱 I’m currently learning **Data Structures, Algorithms, NodeJS**
+- 🌱 I’m currently learning **Data Structures and Algorithms, NodeJS, ReactJS, Reactive Native, NextJS**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/sahabji0P](https://github.com/sahabji0P?tab=repositories)**
 

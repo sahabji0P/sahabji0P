@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently studying in **Bennett University**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, NodeJS, ReactJS, Reactive Native, NextJS**
+- 🌱 Building Projects Using **Data Structures and Algorithms, NodeJS, ReactJS, Reactive Native, NextJS**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/sahabji0P](https://github.com/sahabji0P?tab=repositories)**
 

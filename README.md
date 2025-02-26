@@ -1,12 +1,11 @@
-<h1 align="center">Hi 👋, I'm Shashwat Jain</h1>
-<h3 align="center">A passionate Computer Science Engineer, a Full Stack Web Developer and a Competitive Programmer from India</h3><br>
+<h1 align="center">Hi 👋, I'm Shashwat Jain 🇮🇳 </h1>
+<h3 align="center">An Engineer | A Full Stack Developer | A Competitive Programmer | A Contributor </h3><br>
 <!-- <img width="300" alt="coding" align="right" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"> -->
 
 <!-- <img width="550" alt="coding" align="right" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">   -->
+- 📖 Currently **making project using Next.js, and MERN**
 
-- 🔭 I’m currently studying in **Bennett University**
-
-- 🌱 Building Projects Using **Data Structures and Algorithms, NodeJS, ReactJS, Reactive Native, NextJS**
+- 🪴 Learning **Data Structure and Algorithms**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/sahabji0P](https://github.com/sahabji0P?tab=repositories)**
 
@@ -30,6 +29,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 <hr>
+
+[![An image of @sahabji0p's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sahabji0p)](https://holopin.io/@sahabji0p)
+
 
 <h1 align="center"> GitHub Stats🔥</h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahabji0p&show_icons=true&theme=dark&locale=en&layout=compact" alt="sahabji0p" /></p>

@@ -5,7 +5,7 @@
 <!-- <img width="550" alt="coding" align="right" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">   -->
 - 📖 Currently **making project using Next.js, and MERN**
 
-- 🪴 Learning **Data Structure and Algorithms**
+- 🪴 Learning **Data Structure and Algorithms and Engineering Course Work**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/sahabji0P](https://github.com/sahabji0P?tab=repositories)**
 

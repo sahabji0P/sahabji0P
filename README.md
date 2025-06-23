@@ -1,6 +1,6 @@
 ### **Yo! 👋🏼**
 
-I am **Shashwat Jain**, a **Full Stack Developer** and **Competitive Programmer** from India. I love building innovative/cool solutions and **contributing to open-source projects**.
+I am **Shashwat Jain**, a **Full Stack Developer**, **AI Engineer** and **Competitive Programmer** from India. I love building innovative/cool solutions and **contributing to open-source projects**.
 
 ### Currently:
 

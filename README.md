@@ -1,6 +1,6 @@
 ### **Yo! 👋🏼**
 
-I am **Shashwat Jain**, a **Full Stack Developer**, **AI Engineer** and **Competitive Programmer** from India. I love building innovative/cool, scalable solutions that would help billions and **contributing to open-source projects**.
+I am **Shashwat Jain**, a **Full Stack Developer**, **AI Engineer** and **Competitive Programmer** from India. I love building innovative/cool, scalable solutions that would help billions.
 
 ### Currently:
 
@@ -9,11 +9,11 @@ I am **Shashwat Jain**, a **Full Stack Developer**, **AI Engineer** and **Compet
 - 💻 Working on ***[Projects](https://shashwatjain.me)***
 
 ### Technologies & Tools:
-- **Languages**: `.js` `.ts` `.py` `.cpp`
-- **Frameworks**: `.react` `.node` `.flask` `.nextjs`
-- **Databases**: `.mongodb` `.mysql` `.postgresql` `.serviceNow`
+- **Languages**: `.js` **`.ts`** **`.py**` **`.cpp`**
+- **Frameworks**: **`.nextjs`** `.react` `.node` `.flask` 
+- **Databases**: `.mongodb` `.mysql` `.postgresql` `supabase`
 - **Tools**: `.git` `.docker` `.linux` `WSL` `.goDaddy` `.ServiceNow` `WordPress`
-- **Cloud**: `.vercel` `.render` `.firebase`, `.googleCloudConsole`
+- **Cloud**: `.vercel` `.render` `.firebase`, `.googleCloudConsole` `.AWS`
 
 ### Connect:
 Have something or just want to connect? **Feel free to reach out!**

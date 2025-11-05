@@ -1,11 +1,11 @@
 ### **Yo! 👋🏼**
 
-I am **Shashwat Jain**, a **Full Stack Developer**, **AI Engineer** and **Competitive Programmer** from India. I love building innovative/cool, scalable solutions that would help billions.
+I am **Shashwat Jain**, a **Full Stack Developer**, and **AI Engineer**  from India.
 
 ### Currently:
 
-- 🔭 Computer Science Engineering Student ***[@BennettUniversity](https://www.bennett.edu.in/)***
-- 📚 Learning **Data Structures & Algorithms**, **Backend using `.js` `.ts` `.py`**
+- 💼 AI & Backend Engineer [@AiraAi](https://airaai.in/)
+- 🔭 CSE Student ***[@BennettUniversity](https://www.bennett.edu.in/)***
 - 💻 Working on ***[Projects](https://shashwatjain.me)***
 
 ### Technologies & Tools:

@@ -1,6 +1,6 @@
 ### **Yo! 👋🏼**
 
-I am **Shashwat Jain**, a **Full Stack Developer**, and **AI Engineer**  from India.
+I am **Shashwat Jain**, a **Backend Developer**, and **AI Engineer**  from India.
 
 ### At Present:
 

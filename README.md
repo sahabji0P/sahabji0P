@@ -8,7 +8,7 @@ I am **Shashwat Jain**, a **Backend Developer**, and **AI Engineer**  from India
 - 🔭 CSE Student ***[@BennettUniversity](https://www.bennett.edu.in/)***
 - 💻 Working on ***[Projects](https://shashwatjain.me)***
 
-### Tech Stack: `.py` `.ts` `.js` `.cpp` `.git` `.docker` `.fastapi` `.wsl
+### Tech Stack: `.py` `.ts` `.js` `.cpp` `.git` `.docker` `.fastapi` `.wsl`
 
 <!--
 ### Technologies & Tools:

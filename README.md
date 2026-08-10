@@ -1,29 +1,20 @@
-### **Yo! 👋🏼**
+# Hi, I'm Shashwat 👋
 
-I am **Shashwat Jain**, a **Backend Developer**, and **AI Engineer**  from India.
+**AI Engineer @ [AiRA](https://github.com/AiraAi)** — production voice agents, built on raw SDKs, no frameworks.
 
-### At Present:
+### TL;DR
 
-- 💼 AI & Backend Engineer **[@AiraAi](https://airaai.in/)**
-- 🔭 CSE Student ***[@BennettUniversity](https://www.bennett.edu.in/)***
-- 💻 Working on ***[Projects](https://shashwatjain.me)***
+- 🎙️ Real-time voice pipelines — streaming STT → LLM → TTS, low latency
+- 🔌 Multi-provider LLM adapters — Anthropic, OpenAI, DeepSeek, Cartesia
+- 🧠 Agentic runtimes from first principles — keep model judgment in the loop
+- ✍️ Occasionally a day-dreamer — [journal](https://shashwatjain.tech/)
 
-### Tech Stack: `.py` `.ts` `.js` `.cpp` `.git` `.docker` `.fastapi` `.wsl`
+### Stack
 
-<!--
-### Technologies & Tools:
-- **Languages**: `.js` **`.ts`** **`.py**` **`.cpp`**
-- **Frameworks**: **`.nextjs`** `.react` `.node` `.flask` 
-- **Databases**: `.mongodb` `.mysql` `.postgresql` `supabase`
-- **Tools**: `.git` `.docker` `.linux` `WSL` `.goDaddy` `.ServiceNow` `WordPress`
-- **Cloud**: `.vercel` `.render` `.firebase`, `.googleCloudConsole` `.AWS`
--->
+`python` `asyncio` `fastapi` `typescript` `docker`
 
-### Connect:
-Have something or just want to connect? **Feel free to reach out!**
-- 🌐 [Portfolio](https://shashwatjain.me)
-- **`X`** [Twitter](https://twitter.com/itsshashwatj)
-- 💼 [LinkedIn](https://www.linkedin.com/in/itsshashwatjain/)
+**Daily drivers:** Claude Code · Codex CLI · OpenCode
 
+### Connect
 
-
+[Journal](https://shashwatjain.tech/) · [X](https://x.com/itsshashwatj) · [LinkedIn](https://www.linkedin.com/in/itsshashwatjain/)

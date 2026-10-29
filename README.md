@@ -2,11 +2,13 @@
 
 AI Engineer @ [AiRA](https://github.com/AiraAi) — production voice agents.
 
-- Speech-to-speech where latency wins (OpenAI Realtime, Gemini Live, Grok Voice); cascaded pipelines where control wins
-- The hard edges: false barge-ins on backchannels, echo self-interruption, tool calls mid-utterance
-- Long-call session handling: socket drops, provider session limits, resumption without losing context
-- One LLM interface over Anthropic, OpenAI, Gemini, DeepSeek, with prompt layout built around each provider's caching rules
-- Agent runtimes on raw SDKs: model judgment stays in the loop, not hardcoded out
+- **Voice**
+  - **Speech-to-speech** · OpenAI Realtime · Gemini Live · Grok Voice
+  - **Cascaded** · when a step needs to be controlled or swapped
+- **Hard edges** · backchannel barge-ins, echo self-interruption, mid-utterance tool calls
+- **Sessions** · socket drops, provider time limits, resumption with context intact
+- **LLMs** · Anthropic · OpenAI · Gemini · DeepSeek, with prompts laid out for each provider's caching
+- **Runtimes** · raw SDKs, model judgment kept in the loop
 
 **Stack:** `python` `asyncio` `fastapi` `websockets` `typescript` `docker`
 **Daily drivers:** Claude Code · Codex CLI · OpenCode

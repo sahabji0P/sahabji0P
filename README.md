@@ -2,7 +2,7 @@
 
 AI Engineer @ [AiRA](https://github.com/AiraAi) — production voice agents.
 
-- Speech-to-speech on OpenAI Realtime and Gemini Live; cascaded pipelines where control beats latency
+- Speech-to-speech where latency wins (OpenAI Realtime, Gemini Live, Grok Voice); cascaded pipelines where control wins
 - The hard edges: false barge-ins on backchannels, echo self-interruption, tool calls mid-utterance
 - Long-call session handling: socket drops, provider session limits, resumption without losing context
 - One LLM interface over Anthropic, OpenAI, Gemini, DeepSeek, with prompt layout built around each provider's caching rules

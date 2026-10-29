@@ -2,7 +2,7 @@
 
 AI Engineer @ [AiRA](https://github.com/AiraAi) — production voice agents.
 
-- **Voice**
+- **Voice Agents**
   - **Speech-to-speech** · OpenAI Realtime · Gemini Live · Grok Voice
   - **Cascaded** · when a step needs to be controlled or swapped
 - **Hard edges** · backchannel barge-ins, echo self-interruption, mid-utterance tool calls

@@ -5,6 +5,8 @@ Currently AI Engineer @ [AiRA](https://airaai.in), building voice and browser ag
 ### Voice agents
 - Built on OpenAI Realtime, Gemini Live and Grok Voice
 - Splitting listening, thinking and speaking into separate steps when a product needs more control
+- A small, fast decision model that tells a real interruption apart from someone just saying "mm-hmm"
+- Keeping long calls going when the connection drops, without the agent losing the conversation
 
 ### Browser agents
 - Agents that log in, fill forms and finish multi-step tasks on real websites

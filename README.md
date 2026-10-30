@@ -16,12 +16,15 @@ Currently AI Engineer @ [AiRA](https://airaai.in), building voice and browser ag
 - One codebase that works across Anthropic, OpenAI, Gemini and DeepSeek
 - Structuring prompts so providers can reuse them, which cuts cost and response time
 - Testing agent behaviour before any prompt or model change goes live
+- Tracing and cost per call, so failures and spend are visible
 - Built directly on provider SDKs. I'd rather give the model good tools than script around it.
 
 Before AiRA I was a backend developer.
+
+My [journal](https://shashwatjain.tech/) is run by my own agents. They know what I'm working on, keep it updated and redesign it, and it tracks my token usage across all of them.
 
 **Stack:** Python, asyncio, FastAPI, WebSockets, TypeScript, Docker
 
 Want the details? Email me at [shashwatjain2k3@gmail.com](mailto:shashwatjain2k3@gmail.com) and we'll set up a call.
 
-[Journal](https://shashwatjain.tech/) · [X](https://x.com/itsshashwatj) · [LinkedIn](https://www.linkedin.com/in/itsshashwatjain/)
+[X](https://x.com/itsshashwatj) · [LinkedIn](https://www.linkedin.com/in/itsshashwatjain/)

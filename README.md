@@ -22,7 +22,6 @@ Currently AI Engineer @ [AiRA](https://airaai.in)
 - Built directly on provider SDKs. I'd rather give the model good tools than script around it.
 
 ## More about me
-- Before AiRA I was a backend developer
 - My [journal](https://shashwatjain.tech/) is run by my own agents. They know what I'm working on, keep it updated and redesign it, and it tracks my token usage across all of them.
 - **Stack:** Python, asyncio, FastAPI, WebSockets, TypeScript, Docker
 

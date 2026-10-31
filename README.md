@@ -1,6 +1,6 @@
 # Shashwat Jain
 
-Currently AI Engineer @ [AiRA](https://airaai.in), building voice and browser agents that run in production.
+Currently AI Engineer @ [AiRA](https://airaai.in)
 
 ## Agents
 
